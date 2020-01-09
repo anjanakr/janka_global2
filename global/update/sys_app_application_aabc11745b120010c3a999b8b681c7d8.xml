@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <claim/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>janka_global2</name>
+        <order/>
+        <roles>janka_global2_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-09 22:00:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aabc11745b120010c3a999b8b681c7d8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>janka_global2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="janka_global2" source="22bc11745b120010c3a999b8b681c79c">22bc11745b120010c3a999b8b681c79c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="janka_global2">22bc11745b120010c3a999b8b681c79c</sys_scope>
+        <sys_update_name>sys_app_application_aabc11745b120010c3a999b8b681c7d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-09 22:00:18</sys_updated_on>
+        <title>janka_global2</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

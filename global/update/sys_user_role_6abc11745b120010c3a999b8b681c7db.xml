@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <claim/>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>janka_global2_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix/>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-09 22:00:18</sys_created_on>
+        <sys_id>6abc11745b120010c3a999b8b681c7db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>janka_global2_user</sys_name>
+        <sys_package display_value="janka_global2" source="22bc11745b120010c3a999b8b681c79c">22bc11745b120010c3a999b8b681c79c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="janka_global2">22bc11745b120010c3a999b8b681c79c</sys_scope>
+        <sys_update_name>sys_user_role_6abc11745b120010c3a999b8b681c7db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-09 22:00:18</sys_updated_on>
+    </sys_user_role>
+</record_update>
